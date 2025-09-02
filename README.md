@@ -26,12 +26,13 @@ To run BlankDevaux, you'll need:
 - Custom Desktop PC (2020)
     - **CPU**: Intel Core i9-10850K (10 cores, 20 threads) @ 5.20 GHz
     - **GPU**: ASUS STRIX NVIDIA GeForce RTX 3090 OC EDITION (26 GB vRAM)
-    - **RAM**: G.Skill 16 GB Trident Z Neo DDR4 3800 Hz CL14 (2x8 GB) 
+    - **RAM**: G.Skill 16 GB Trident Z Neo DDR4 3800 MHz CL14 (2 x 8 GB) 
     - **OS**: Arch Linux
-- 13" MacBook Pro (2020)
-    - **CPU**: Apple Silicon M1
-    - **RAM**: 16 GB
-    - **OS**: MacOS Sequoia (15.5)
+- ASUS ROG STRIX G16
+    - **CPU**: AMD Ryzen 9 8940HX (16 cores, 32 threads) @ 5.30 GHz
+    - **GPU**: NVIDIA GeForce RTX 5070 Ti (12 GB vRAM)
+    - **RAM**: 32 GB DDR5 5200 MHz (2 x 16 GB)
+    - **OS**: Arch Linux
 - Steam Deck OLED Limited White Edition
     - **CPU**: AMD Zen 2 6 nm APU (4 cores, 8 threads) @ 3.50 GHz
     - **GPU**: AMD 8 RDNA 2
